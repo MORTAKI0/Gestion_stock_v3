@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\admindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\admindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -146,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -245,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\Home.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\Home.jsx",
@@ -253,12 +253,11 @@
               "RelativeToolTip": "ClientApp\\src\\Home.jsx",
               "ViewState": "AgIAALYAAAAAAAAAAAAIwMUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:17:59.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:17:59.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\main.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\main.jsx",
@@ -266,12 +265,11 @@
               "RelativeToolTip": "ClientApp\\src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:17:34.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:17:34.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\Login.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\Login.jsx",
@@ -279,12 +277,11 @@
               "RelativeToolTip": "ClientApp\\src\\Login.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:26:24.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:26:24.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClientDashboard.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\ClientDashboard.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\ClientDashboard.jsx",
@@ -292,25 +289,20 @@
               "RelativeToolTip": "ClientApp\\src\\ClientDashboard.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:27:22.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:27:22.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminDashboard.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\AdminDashboard.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\AdminDashboard.jsx",
               "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\AdminDashboard.jsx",
               "RelativeToolTip": "ClientApp\\src\\AdminDashboard.jsx",
-              "ViewState": "AgIAAIABAAAAAAAAAAAIwJ4BAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAIwJ4BAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-12-31T14:26:52.576Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:87:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
@@ -322,8 +314,7 @@
               "RelativeToolTip": "ClientApp\\src\\App.jsx",
               "ViewState": "AgIAADQAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:17:19.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:17:19.514Z"
             },
             {
               "$type": "Document",
