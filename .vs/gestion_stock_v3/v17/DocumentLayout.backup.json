@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\migrations\\20241231174534_updateproductschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:migrations\\20241231174534_updateproductschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\admindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\admindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\clientdashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\clientdashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\admindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\admindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\migrations\\20241231174534_updateproductschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:migrations\\20241231174534_updateproductschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +63,12 @@
       "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\authservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\authservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\clientdashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\clientdashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\clientapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|solutionrelative:clientapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBEC6B8D-73B5-4136-BF35-9EEC9BDC19A8}|gestion_stock_v3.csproj|c:\\users\\abdel\\onedrive\\desktop\\gestion_stock_v3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -113,8 +113,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 159,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 184,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -130,12 +130,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:49:42.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T13:49:42.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "Models\\Supplier.cs",
@@ -143,25 +142,24 @@
               "RelativeToolTip": "Models\\Supplier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:51:28.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T13:51:28.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T13:53:02.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -169,8 +167,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:52:33.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T13:52:33.397Z"
             },
             {
               "$type": "Document",
@@ -182,8 +179,7 @@
               "RelativeToolTip": "Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:51:59.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T13:51:59.016Z"
             },
             {
               "$type": "Document",
@@ -195,8 +191,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-31T13:58:29.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T13:58:29.813Z"
             },
             {
               "$type": "Document",
@@ -208,8 +203,7 @@
               "RelativeToolTip": "Models\\StockMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:51:06.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T13:51:06.823Z"
             },
             {
               "$type": "Document",
@@ -221,14 +215,13 @@
               "RelativeToolTip": "Models\\Stock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:50:37.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T13:50:37.896Z"
             }
           ]
         },
         {
-          "DockedWidth": 241,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 216,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -243,159 +236,55 @@
               "Name": "ST:63:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241231174534_UpdateProductSchema.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Migrations\\20241231174534_UpdateProductSchema.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241231174534_UpdateProductSchema.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Migrations\\20241231174534_UpdateProductSchema.cs",
-              "RelativeToolTip": "Migrations\\20241231174534_UpdateProductSchema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T17:45:36.318Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:84:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:70:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T16:27:56.736Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAAAKwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:56:02.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminDashboard.jsx",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\AdminDashboard.jsx",
-              "RelativeDocumentMoniker": "ClientApp\\src\\AdminDashboard.jsx",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\AdminDashboard.jsx",
-              "RelativeToolTip": "ClientApp\\src\\AdminDashboard.jsx",
-              "ViewState": "AgIAALQAAAAAAAAAAAAAAN4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:26:52.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SupplierController.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\SupplierController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\SupplierController.cs",
-              "RelativeToolTip": "Controllers\\SupplierController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T16:30:23.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T16:30:43.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\App.jsx",
-              "RelativeDocumentMoniker": "ClientApp\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\App.jsx",
-              "RelativeToolTip": "ClientApp\\src\\App.jsx",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:17:19.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\Home.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\Home.jsx",
               "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\Home.jsx",
               "RelativeToolTip": "ClientApp\\src\\Home.jsx",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAIwH4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAIwMUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-12-31T14:17:59.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "authService.js",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\authService.js",
-              "RelativeDocumentMoniker": "ClientApp\\src\\authService.js",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\authService.js",
-              "RelativeToolTip": "ClientApp\\src\\authService.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-31T14:25:26.625Z",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\main.jsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\main.jsx",
+              "RelativeToolTip": "ClientApp\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-31T14:17:34.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:21:00.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Login.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\Login.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\Login.jsx",
               "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\Login.jsx",
               "RelativeToolTip": "ClientApp\\src\\Login.jsx",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-12-31T14:26:24.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "ClientDashboard.jsx",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\ClientDashboard.jsx",
               "RelativeDocumentMoniker": "ClientApp\\src\\ClientDashboard.jsx",
@@ -408,20 +297,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\AdminDashboard.jsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\AdminDashboard.jsx",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\AdminDashboard.jsx",
+              "RelativeToolTip": "ClientApp\\src\\AdminDashboard.jsx",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAcwJ4BAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-31T14:26:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\App.jsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\App.jsx",
+              "RelativeToolTip": "ClientApp\\src\\App.jsx",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-31T14:17:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "vite.config.js",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\vite.config.js",
               "RelativeDocumentMoniker": "ClientApp\\vite.config.js",
               "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\vite.config.js",
               "RelativeToolTip": "ClientApp\\vite.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-31T14:17:46.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:17:46.495Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:87:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwKwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:56:02.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241231174534_UpdateProductSchema.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Migrations\\20241231174534_UpdateProductSchema.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241231174534_UpdateProductSchema.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Migrations\\20241231174534_UpdateProductSchema.cs",
+              "RelativeToolTip": "Migrations\\20241231174534_UpdateProductSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:45:36.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:27:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:30:23.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:30:43.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "authService.js",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\authService.js",
+              "RelativeDocumentMoniker": "ClientApp\\src\\authService.js",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\authService.js",
+              "RelativeToolTip": "ClientApp\\src\\authService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-31T14:25:26.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:21:00.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -429,12 +431,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:43:51.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:43:51.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -442,12 +443,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAuwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:00:52.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:00:52.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AdminDashboardController.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\AdminDashboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminDashboardController.cs",
@@ -455,12 +455,11 @@
               "RelativeToolTip": "Controllers\\AdminDashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:21:36.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:21:36.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ClientDashboardController.cs",
               "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\Controllers\\ClientDashboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientDashboardController.cs",
@@ -468,21 +467,7 @@
               "RelativeToolTip": "Controllers\\ClientDashboardController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:22:02.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\main.jsx",
-              "RelativeDocumentMoniker": "ClientApp\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\gestion_stock_v3\\ClientApp\\src\\main.jsx",
-              "RelativeToolTip": "ClientApp\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-31T14:17:34.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T14:22:02.524Z"
             }
           ]
         }
