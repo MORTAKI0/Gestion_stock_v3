@@ -1,5 +1,6 @@
 ﻿import React, { useState, useEffect } from "react";
 import axios from "axios";
+import { deleteProduct } from "./authService"; // Import deleteProduct
 
 const AdminDashboard = () => {
     const [products, setProducts] = useState([]);
@@ -121,6 +122,20 @@ const AdminDashboard = () => {
             ...prevProduct,
             [name]: value,
         }));
+    };
+
+    const handleDeleteProduct = async (productId) => {
+        if (window.confirm("Are you sure you want to delete this product?")) {
+            try {
+                await deleteProduct(productId);
+                alert("Product deleted successfully.");
+                // Refresh the product list
+                setProducts(products.filter(p => p.id !== productId));
+            } catch (error) {
+                console.error("Error deleting product:", error);
+                alert(error.toString() || "Failed to delete product.");
+            }
+        }
     };
 
     const styles = {
@@ -393,6 +408,7 @@ const AdminDashboard = () => {
                         <th style={styles.tableHeader}>Supplier</th>
                         <th style={styles.tableHeader}>Price</th>
                         <th style={styles.tableHeader}>Status</th>
+                        <th style={styles.tableHeader}>Actions</th> {/* Actions column header */}
                     </tr>
                 </thead>
                 <tbody>
@@ -400,10 +416,21 @@ const AdminDashboard = () => {
                         <tr key={product.id} style={styles.tableRow}>
                             <td style={styles.tableCell}>{product.name}</td>
                             <td style={styles.tableCell}>{product.reference}</td>
-                            <td style={styles.tableCell}>{product.categoryNavigation?.name || "N/A"}</td>
-                            <td style={styles.tableCell}>{product.supplier?.name || "N/A"}</td>
+                            <td style={styles.tableCell}>{product.categoryNavigation?.name || product.categoryName || "N/A"}</td>
+                            <td style={styles.tableCell}>{product.supplier?.name || product.supplierName || "N/A"}</td>
                             <td style={styles.tableCell}>{product.price}</td>
                             <td style={styles.tableCell}>{product.status}</td>
+                            <td style={styles.tableCell}>
+                                <button
+                                    style={{ ...styles.button, backgroundColor: "#dc3545", marginRight: "5px" }}
+                                    onMouseOver={(e) => (e.target.style.backgroundColor = "#c82333")}
+                                    onMouseOut={(e) => (e.target.style.backgroundColor = "#dc3545")}
+                                    onClick={() => handleDeleteProduct(product.id)}
+                                >
+                                    Delete
+                                </button>
+                                {/* Add Edit button here if needed in the future */}
+                            </td>
                         </tr>
                     ))}
                 </tbody>

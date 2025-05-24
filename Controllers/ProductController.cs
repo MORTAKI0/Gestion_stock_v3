@@ -1,6 +1,8 @@
 ﻿using gestion_stock_v3.Data;
+using Microsoft.AspNetCore.Authorization; // Added for [Authorize]
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System; // Added for DateTime
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -89,9 +91,42 @@ namespace gestion_stock_v3.Controllers
             }
         }
 
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")] // Only Admins can delete products
+        public async Task<IActionResult> DeleteProduct(int id)
+        {
+            var product = await _context.Products.FindAsync(id);
 
+            if (product == null)
+            {
+                return NotFound(new { Message = $"Product with ID {id} not found." });
+            }
 
+            if (product.IsDeleted)
+            {
+                // Optionally, return a specific message or status if already deleted
+                return BadRequest(new { Message = $"Product with ID {id} is already marked as deleted." });
+            }
 
+            product.IsDeleted = true;
+            product.Status = "Archived"; // Set status to indicate it's archived/deleted
+            product.UpdatedAt = DateTime.UtcNow;
 
+            try
+            {
+                await _context.SaveChangesAsync();
+                return NoContent(); // Standard response for successful DELETE
+            }
+            catch (DbUpdateConcurrencyException ex)
+            {
+                // Log the exception details if necessary
+                return StatusCode(500, new { Message = "A concurrency error occurred while trying to delete the product. " + ex.Message });
+            }
+            catch (Exception ex)
+            {
+                // Log the exception details if necessary
+                return StatusCode(500, new { Message = "An error occurred while deleting the product. " + ex.Message });
+            }
+        }
     }
 }

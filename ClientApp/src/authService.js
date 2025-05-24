@@ -10,3 +10,13 @@ export const login = async (email, password) => {
         throw error.response?.data?.message || 'Login failed';
     }
 };
+
+export const deleteProduct = async (productId) => {
+    try {
+        // Assuming cookies are automatically sent by the browser for authentication
+        await axios.delete(`/api/Product/${productId}`);
+        return { success: true, message: 'Product deleted successfully.' };
+    } catch (error) {
+        throw error.response?.data?.message || 'Failed to delete product.';
+    }
+};
